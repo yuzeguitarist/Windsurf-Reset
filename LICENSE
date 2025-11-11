@@ -1,0 +1,40 @@
+Custom License Agreement
+
+Copyright (c) 2024 Yuze Pan. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. PERMITTED USES
+   - Personal use is permitted
+   - Closed-source use is permitted
+   - Redistribution is permitted with proper attribution
+   - Modification is permitted ONLY if the modified source code is made publicly available under the same license
+
+2. RESTRICTIONS
+   - Commercial use is STRICTLY PROHIBITED without explicit written permission from the copyright holder
+   - Any modification must be open-sourced under the same license terms
+   - The original copyright notice and this license must be included in all copies or substantial portions of the software
+
+3. ATTRIBUTION
+   All redistributions, whether in source or binary form, must retain:
+   - The above copyright notice
+   - This list of conditions
+   - A link to the original repository
+
+4. DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+5. TERMINATION
+   This license automatically terminates if you violate any of its terms.
+
+6. GOVERNING LAW
+   This license shall be governed by and construed in accordance with the laws
+   of the jurisdiction in which the copyright holder resides.
+
+For commercial licensing inquiries, please contact the copyright holder.
