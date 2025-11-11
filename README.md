@@ -29,6 +29,10 @@ Download the latest release for your platform:
 - **Windows**: `.exe` installer or portable version
 - **Linux**: `.AppImage` or `.deb` package
 
+### ⚙️ Compatibility
+
+**Supported Windsurf Versions**: 1.12.28 and below
+
 ### 🚀 Usage
 
 1. **Close Windsurf** before running the tool
@@ -73,6 +77,10 @@ Download the latest release for your platform:
 - **Windows**: `.exe` 安装程序或便携版
 - **Linux**: `.AppImage` 或 `.deb` 包
 
+### ⚙️ 兼容性
+
+**支持的 Windsurf 版本**: 1.12.28 及以下版本
+
 ### 🚀 使用方法
 
 1. 运行工具前**关闭 Windsurf**
@@ -116,6 +124,10 @@ Laden Sie die neueste Version für Ihre Plattform herunter:
 - **macOS**: `.dmg` oder `.zip` (ARM64 & Intel)
 - **Windows**: `.exe` Installer oder portable Version
 - **Linux**: `.AppImage` oder `.deb` Paket
+
+### ⚙️ Kompatibilität
+
+**Unterstützte Windsurf-Versionen**: 1.12.28 und niedriger
 
 ### 🚀 Verwendung
 
