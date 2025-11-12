@@ -273,7 +273,9 @@
 
 ### 🎨 Screenshots
 
-*Coming Soon - Beautiful UI Preview*
+![Windsurf Reset Application](show.png)
+
+*Windsurf Reset - Clean and Modern Interface*
 
 ---
 
@@ -596,7 +598,9 @@ Contributions are welcome! If you modify this software, your changes must be ope
 
 ### 🎨 界面预览
 
-*即将推出 - 精美的用户界面预览*
+![Windsurf Reset 应用程序](show.png)
+
+*Windsurf Reset - 简洁现代的界面*
 
 ---
 
@@ -919,7 +923,9 @@ Contributions are welcome! If you modify this software, your changes must be ope
 
 ### 🎨 Screenshots
 
-*Demnächst - Schöne UI-Vorschau*
+![Windsurf Reset Anwendung](show.png)
+
+*Windsurf Reset - Saubere und Moderne Oberfläche*
 
 ---
 
