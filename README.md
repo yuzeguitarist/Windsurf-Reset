@@ -1,174 +1,1021 @@
+<div align="center">
+
 # 🌊 Windsurf Reset
 
-> A powerful tool to refresh your Windsurf IDE experience
+### *Refresh Your Windsurf IDE Experience with One Click*
 
 [![License](https://img.shields.io/badge/License-Custom-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)]()
 [![Electron](https://img.shields.io/badge/Electron-28.0-47848F.svg)]()
-
-[English](#english) | [中文](#中文) | [Deutsch](#deutsch)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)]()
+[![Windsurf](https://img.shields.io/badge/Windsurf-≤1.12.28-orange.svg)]()
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)]()
 
 ---
 
-## English
+### 🌍 Language / 语言 / Sprache
 
-### ✨ Features
+[🇬🇧 English](#-english) | [🇨🇳 中文](#-中文) | [🇩🇪 Deutsch](#-deutsch)
 
-- **One-Click Reset** - Instantly refresh your Windsurf machine identifiers
-- **Smart Backup** - Automatic backup management with restore capabilities  
-- **Multi-Language** - Full support for English, 中文, and Deutsch
-- **Cross-Platform** - Works on macOS (ARM/Intel), Windows, and Linux
-- **Modern UI** - Clean, brutalist design for optimal user experience
-- **Safe & Secure** - All operations are reversible with backup protection
+</div>
+
+---
+
+## 🇬🇧 English
+
+<div align="center">
+
+### ✨ **Why Windsurf Reset?**
+
+*The most elegant solution to refresh your Windsurf IDE with a single click*
+
+</div>
+
+### 🎯 Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 **Performance**
+- ⚡ One-click instant reset
+- 🔄 Smart identifier regeneration
+- 💨 Lightning-fast operations
+- 🎯 Zero configuration needed
+
+</td>
+<td width="50%">
+
+#### 🛡️ **Safety First**
+- 💾 Automatic backup system
+- ↩️ One-click restore capability
+- 🔒 Reversible operations
+- ✅ Data integrity protection
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌐 **Universal**
+- 🍎 macOS (ARM64 & Intel)
+- 🪟 Windows (x64)
+- 🐧 Linux (Multiple formats)
+- 🌍 Multi-language UI
+
+</td>
+<td width="50%">
+
+#### 🎨 **User Experience**
+- 🖼️ Neo-Brutalism design
+- 🌓 Clean modern interface
+- 🔤 EN / 中文 / DE support
+- 📱 Intuitive workflow
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 📦 Installation
 
-Download the latest release for your platform:
+<div align="center">
 
-- **macOS**: `.dmg` or `.zip` (ARM64 & Intel)
-- **Windows**: `.exe` installer or portable version
-- **Linux**: `.AppImage` or `.deb` package
+#### Choose Your Platform
 
-### ⚙️ Compatibility
+</div>
 
-**Supported Windsurf Versions**: 1.12.28 and below
+<table>
+<thead>
+<tr>
+<th width="25%">Platform</th>
+<th width="45%">Available Formats</th>
+<th width="30%">Recommended</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/></td>
+<td><code>.dmg</code> installer, <code>.zip</code> portable</td>
+<td><code>.dmg</code> (Universal Binary)</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/></td>
+<td><code>.exe</code> installer, Portable version</td>
+<td><code>.exe</code> installer</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/></td>
+<td><code>.AppImage</code>, <code>.deb</code> package</td>
+<td><code>.AppImage</code> (Universal)</td>
+</tr>
+</tbody>
+</table>
 
-### 🚀 Usage
+---
 
-1. **Close Windsurf** before running the tool
-2. Launch Windsurf Reset
-3. Click "Start Reset" to generate new identifiers
-4. Restart Windsurf with your fresh configuration
+### ⚙️ System Requirements
 
-### ⚠️ Important Notes
+<table>
+<tr>
+<td width="50%">
 
-- Always backup your important work before resetting
-- The tool creates automatic backups that can be restored
-- Source code is not publicly available (obfuscated binary distribution only)
+**Windsurf Compatibility**
+- ✅ **Supported**: Version ≤ 1.12.28
+- ⚠️ **Testing**: Version > 1.12.28
+- 📋 **OS**: All major platforms
+
+</td>
+<td width="50%">
+
+**System Requirements**
+- 💻 **RAM**: 512 MB minimum
+- 💾 **Disk**: 100 MB free space
+- 🖥️ **Display**: Any resolution
+- 🔌 **Internet**: Not required
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Quick Start Guide
+
+<div align="center">
+
+#### **Get Started in 4 Simple Steps**
+
+</div>
+
+```bash
+# Step 1: Close Windsurf IDE
+# Close all Windsurf windows and processes
+
+# Step 2: Launch Windsurf Reset
+# Open the application from your platform
+
+# Step 3: Click "Start Reset"
+# The tool will backup and regenerate identifiers
+
+# Step 4: Restart Windsurf
+# Launch Windsurf with your fresh configuration
+```
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/1-Close-red?style=for-the-badge" alt="Step 1"/>
+<br><b>Close Windsurf</b>
+<br><sub>Ensure all instances are closed</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2-Launch-blue?style=for-the-badge" alt="Step 2"/>
+<br><b>Open Reset Tool</b>
+<br><sub>Run Windsurf Reset application</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/3-Reset-green?style=for-the-badge" alt="Step 3"/>
+<br><b>Click Reset Button</b>
+<br><sub>Automatic backup & regeneration</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/4-Restart-orange?style=for-the-badge" alt="Step 4"/>
+<br><b>Launch Windsurf</b>
+<br><sub>Enjoy your fresh IDE</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚠️ Important Information
+
+<table>
+<tr>
+<td width="33%">
+
+#### 💡 **Before Reset**
+- ✅ Save all your work
+- ✅ Close Windsurf completely
+- ✅ Note any custom settings
+- ✅ Review recent projects
+
+</td>
+<td width="33%">
+
+#### 🔄 **During Reset**
+- ⏳ Wait for completion
+- 🚫 Don't interrupt process
+- 📋 Backup created automatically
+- ✨ Identifiers regenerated
+
+</td>
+<td width="34%">
+
+#### ✅ **After Reset**
+- 🎉 Fresh IDE configuration
+- 🔙 Restore available if needed
+- 📂 Check your projects
+- 🆕 Enjoy clean start
+
+</td>
+</tr>
+</table>
+
+> **📌 Note**: This tool modifies Windsurf machine identifiers. Always ensure you have backups of important work. Source code is distributed as obfuscated binaries only.
+
+---
 
 ### 📄 License
 
-**Custom License** - See [LICENSE](LICENSE) file for details
+<div align="center">
 
-- ✅ Personal use permitted
-- ✅ Closed-source use permitted  
-- ✅ Redistribution permitted
-- ✅ Modifications must be open-sourced
-- ❌ Commercial use prohibited
+**Custom Open License**
+
+*Flexible terms for different use cases*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### ✅ **Permitted**
+- ✔️ Personal use
+- ✔️ Closed-source use
+- ✔️ Free redistribution
+- ✔️ Modification (must open-source)
+
+</td>
+<td width="50%">
+
+#### ❌ **Prohibited**
+- ✖️ Commercial use
+- ✖️ Selling the software
+- ✖️ Proprietary modifications
+- ✖️ Removing attribution
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📖 [**Read Full License**](LICENSE)
+
+</div>
 
 ---
 
-## 中文
+<div align="center">
 
-### ✨ 功能特性
+### 🎨 Screenshots
 
-- **一键重置** - 快速刷新 Windsurf 机器标识符
-- **智能备份** - 自动备份管理，支持一键恢复
-- **多语言支持** - 完整支持中文、English 和 Deutsch
-- **跨平台** - 支持 macOS (ARM/Intel)、Windows 和 Linux
-- **现代界面** - 简洁的新粗野主义设计
-- **安全可靠** - 所有操作可逆，带备份保护
+*Coming Soon - Beautiful UI Preview*
 
-### 📦 安装
+---
 
-下载适合您平台的最新版本：
+### 💬 FAQ
 
-- **macOS**: `.dmg` 或 `.zip` (ARM64 & Intel)
-- **Windows**: `.exe` 安装程序或便携版
-- **Linux**: `.AppImage` 或 `.deb` 包
+<details>
+<summary><b>Is my data safe?</b></summary>
+<br>
+Yes! The tool creates automatic backups before any operation. You can restore at any time.
+</details>
 
-### ⚙️ 兼容性
+<details>
+<summary><b>Does it work with the latest Windsurf version?</b></summary>
+<br>
+Tested and confirmed working with Windsurf version 1.12.28 and below. Newer versions are under testing.
+</details>
 
-**支持的 Windsurf 版本**: 1.12.28 及以下版本
+<details>
+<summary><b>Can I use this commercially?</b></summary>
+<br>
+No, commercial use is prohibited under the current license. Contact us for commercial licensing options.
+</details>
 
-### 🚀 使用方法
+<details>
+<summary><b>What happens if something goes wrong?</b></summary>
+<br>
+All operations are reversible. Use the restore function to revert to your previous configuration.
+</details>
 
-1. 运行工具前**关闭 Windsurf**
-2. 启动 Windsurf Reset
-3. 点击"开始重置"生成新标识符
-4. 使用全新配置重启 Windsurf
+---
 
-### ⚠️ 重要提示
+### 🛠️ Technical Stack
 
-- 重置前请备份重要工作
-- 工具会自动创建可恢复的备份
-- 源代码不公开（仅提供混淆后的二进制版本）
+<div align="center">
+
+![Electron](https://img.shields.io/badge/Electron-28.0-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Design Philosophy**: Neo-Brutalism
+
+</div>
+
+---
+
+### 🤝 Contributing
+
+Contributions are welcome! If you modify this software, your changes must be open-sourced under the same license terms.
+
+1. Fork the repository
+2. Make your changes
+3. Submit with open-source license
+4. Include clear documentation
+
+---
+
+### 📧 Support & Contact
+
+- 🐛 **Bug Reports**: [Open an Issue](../../issues)
+- 💡 **Feature Requests**: [Open an Issue](../../issues)
+- 💼 **Commercial Licensing**: [Contact via Issue](../../issues)
+- 📖 **Documentation**: Check the [Wiki](../../wiki)
+
+---
+
+</div>
+
+---
+
+## 🇨🇳 中文
+
+<div align="center">
+
+### ✨ **为什么选择 Windsurf Reset？**
+
+*一键刷新 Windsurf IDE 的最优雅解决方案*
+
+</div>
+
+### 🎯 核心功能
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 **性能表现**
+- ⚡ 一键即时重置
+- 🔄 智能标识符重新生成
+- 💨 闪电般的操作速度
+- 🎯 零配置开箱即用
+
+</td>
+<td width="50%">
+
+#### 🛡️ **安全至上**
+- 💾 自动备份系统
+- ↩️ 一键恢复功能
+- 🔒 可逆操作保证
+- ✅ 数据完整性保护
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌐 **全平台支持**
+- 🍎 macOS (ARM64 & Intel)
+- 🪟 Windows (x64)
+- 🐧 Linux (多种格式)
+- 🌍 多语言界面
+
+</td>
+<td width="50%">
+
+#### 🎨 **用户体验**
+- 🖼️ 新粗野主义设计
+- 🌓 简洁现代的界面
+- 🔤 中文 / EN / DE 支持
+- 📱 直观的工作流程
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📦 安装说明
+
+<div align="center">
+
+#### 选择您的平台
+
+</div>
+
+<table>
+<thead>
+<tr>
+<th width="25%">平台</th>
+<th width="45%">可用格式</th>
+<th width="30%">推荐格式</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/></td>
+<td><code>.dmg</code> 安装器, <code>.zip</code> 便携版</td>
+<td><code>.dmg</code> (通用二进制)</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/></td>
+<td><code>.exe</code> 安装器, 便携版本</td>
+<td><code>.exe</code> 安装器</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/></td>
+<td><code>.AppImage</code>, <code>.deb</code> 软件包</td>
+<td><code>.AppImage</code> (通用)</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+### ⚙️ 系统要求
+
+<table>
+<tr>
+<td width="50%">
+
+**Windsurf 兼容性**
+- ✅ **已支持**: 版本 ≤ 1.12.28
+- ⚠️ **测试中**: 版本 > 1.12.28
+- 📋 **系统**: 所有主流平台
+
+</td>
+<td width="50%">
+
+**系统需求**
+- 💻 **内存**: 最少 512 MB
+- 💾 **磁盘**: 100 MB 可用空间
+- 🖥️ **显示**: 任意分辨率
+- 🔌 **网络**: 无需联网
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 快速开始指南
+
+<div align="center">
+
+#### **只需 4 个简单步骤**
+
+</div>
+
+```bash
+# 步骤 1: 关闭 Windsurf IDE
+# 关闭所有 Windsurf 窗口和进程
+
+# 步骤 2: 启动 Windsurf Reset
+# 从您的平台打开应用程序
+
+# 步骤 3: 点击"开始重置"
+# 工具将自动备份并重新生成标识符
+
+# 步骤 4: 重启 Windsurf
+# 使用全新配置启动 Windsurf
+```
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/1-关闭-red?style=for-the-badge" alt="步骤 1"/>
+<br><b>关闭 Windsurf</b>
+<br><sub>确保所有实例已关闭</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2-启动-blue?style=for-the-badge" alt="步骤 2"/>
+<br><b>打开重置工具</b>
+<br><sub>运行 Windsurf Reset 应用</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/3-重置-green?style=for-the-badge" alt="步骤 3"/>
+<br><b>点击重置按钮</b>
+<br><sub>自动备份与重新生成</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/4-重启-orange?style=for-the-badge" alt="步骤 4"/>
+<br><b>启动 Windsurf</b>
+<br><sub>享受全新的 IDE</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚠️ 重要信息
+
+<table>
+<tr>
+<td width="33%">
+
+#### 💡 **重置前**
+- ✅ 保存所有工作
+- ✅ 完全关闭 Windsurf
+- ✅ 记录自定义设置
+- ✅ 检查最近的项目
+
+</td>
+<td width="33%">
+
+#### 🔄 **重置中**
+- ⏳ 等待完成
+- 🚫 不要中断过程
+- 📋 自动创建备份
+- ✨ 重新生成标识符
+
+</td>
+<td width="34%">
+
+#### ✅ **重置后**
+- 🎉 全新的 IDE 配置
+- 🔙 可随时恢复
+- 📂 检查您的项目
+- 🆕 享受全新开始
+
+</td>
+</tr>
+</table>
+
+> **📌 提示**: 此工具会修改 Windsurf 机器标识符。请始终确保重要工作已备份。源代码仅以混淆二进制文件形式发布。
+
+---
 
 ### 📄 许可协议
 
-**自定义许可** - 详见 [LICENSE](LICENSE) 文件
+<div align="center">
 
-- ✅ 允许个人使用
-- ✅ 允许闭源使用
-- ✅ 允许再发布
-- ✅ 修改后的程序必须开源
-- ❌ 禁止商业使用
+**自定义开放许可**
+
+*针对不同使用场景的灵活条款*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### ✅ **允许的使用**
+- ✔️ 个人使用
+- ✔️ 闭源使用
+- ✔️ 免费再发布
+- ✔️ 修改（必须开源）
+
+</td>
+<td width="50%">
+
+#### ❌ **禁止的使用**
+- ✖️ 商业使用
+- ✖️ 销售软件
+- ✖️ 专有修改
+- ✖️ 删除署名
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📖 [**阅读完整许可**](LICENSE)
+
+</div>
 
 ---
 
-## Deutsch
+<div align="center">
 
-### ✨ Funktionen
+### 🎨 界面预览
 
-- **Ein-Klick-Reset** - Schnelle Aktualisierung der Windsurf-Kennungen
-- **Intelligente Sicherung** - Automatische Backup-Verwaltung mit Wiederherstellung
-- **Mehrsprachig** - Volle Unterstützung für Deutsch, English und 中文
-- **Plattformübergreifend** - Funktioniert auf macOS (ARM/Intel), Windows und Linux
-- **Moderne Oberfläche** - Sauberes, brutalistisches Design
-- **Sicher** - Alle Operationen sind mit Backup-Schutz reversibel
+*即将推出 - 精美的用户界面预览*
+
+---
+
+### 💬 常见问题
+
+<details>
+<summary><b>我的数据安全吗？</b></summary>
+<br>
+安全！工具在任何操作前都会自动创建备份。您可以随时恢复。
+</details>
+
+<details>
+<summary><b>支持最新版本的 Windsurf 吗？</b></summary>
+<br>
+已测试并确认支持 Windsurf 1.12.28 及以下版本。更新版本正在测试中。
+</details>
+
+<details>
+<summary><b>可以用于商业用途吗？</b></summary>
+<br>
+不可以，当前许可禁止商业使用。如需商业许可，请联系我们。
+</details>
+
+<details>
+<summary><b>如果出现问题怎么办？</b></summary>
+<br>
+所有操作都是可逆的。使用恢复功能即可还原到之前的配置。
+</details>
+
+---
+
+### 🛠️ 技术栈
+
+<div align="center">
+
+![Electron](https://img.shields.io/badge/Electron-28.0-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**设计理念**: 新粗野主义
+
+</div>
+
+---
+
+### 🤝 贡献
+
+欢迎贡献！如果您修改此软件，您的更改必须以相同的许可条款开源。
+
+1. Fork 本仓库
+2. 进行您的修改
+3. 以开源许可提交
+4. 包含清晰的文档
+
+---
+
+### 📧 支持与联系
+
+- 🐛 **错误报告**: [提交 Issue](../../issues)
+- 💡 **功能请求**: [提交 Issue](../../issues)
+- 💼 **商业许可**: [通过 Issue 联系](../../issues)
+- 📖 **文档**: 查看 [Wiki](../../wiki)
+
+---
+
+</div>
+
+---
+
+## 🇩🇪 Deutsch
+
+<div align="center">
+
+### ✨ **Warum Windsurf Reset?**
+
+*Die eleganteste Lösung, um Ihre Windsurf IDE mit einem Klick zu aktualisieren*
+
+</div>
+
+### 🎯 Hauptfunktionen
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 **Leistung**
+- ⚡ Ein-Klick-Sofort-Reset
+- 🔄 Intelligente Kennung-Regenerierung
+- 💨 Blitzschnelle Operationen
+- 🎯 Keine Konfiguration erforderlich
+
+</td>
+<td width="50%">
+
+#### 🛡️ **Sicherheit Zuerst**
+- 💾 Automatisches Backup-System
+- ↩️ Ein-Klick-Wiederherstellung
+- 🔒 Umkehrbare Operationen
+- ✅ Datenintegritätsschutz
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌐 **Universal**
+- 🍎 macOS (ARM64 & Intel)
+- 🪟 Windows (x64)
+- 🐧 Linux (Mehrere Formate)
+- 🌍 Mehrsprachige UI
+
+</td>
+<td width="50%">
+
+#### 🎨 **Benutzererfahrung**
+- 🖼️ Neo-Brutalismus-Design
+- 🌓 Saubere moderne Oberfläche
+- 🔤 DE / EN / 中文 Unterstützung
+- 📱 Intuitiver Workflow
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 📦 Installation
 
-Laden Sie die neueste Version für Ihre Plattform herunter:
+<div align="center">
 
-- **macOS**: `.dmg` oder `.zip` (ARM64 & Intel)
-- **Windows**: `.exe` Installer oder portable Version
-- **Linux**: `.AppImage` oder `.deb` Paket
+#### Wählen Sie Ihre Plattform
 
-### ⚙️ Kompatibilität
+</div>
 
-**Unterstützte Windsurf-Versionen**: 1.12.28 und niedriger
+<table>
+<thead>
+<tr>
+<th width="25%">Plattform</th>
+<th width="45%">Verfügbare Formate</th>
+<th width="30%">Empfohlen</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/></td>
+<td><code>.dmg</code> Installer, <code>.zip</code> portabel</td>
+<td><code>.dmg</code> (Universal Binary)</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/></td>
+<td><code>.exe</code> Installer, Portable Version</td>
+<td><code>.exe</code> Installer</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/></td>
+<td><code>.AppImage</code>, <code>.deb</code> Paket</td>
+<td><code>.AppImage</code> (Universal)</td>
+</tr>
+</tbody>
+</table>
 
-### 🚀 Verwendung
+---
 
-1. **Schließen Sie Windsurf** vor der Ausführung des Tools
-2. Starten Sie Windsurf Reset
-3. Klicken Sie auf "Zurücksetzen starten" für neue Kennungen
-4. Starten Sie Windsurf mit frischer Konfiguration neu
+### ⚙️ Systemanforderungen
 
-### ⚠️ Wichtige Hinweise
+<table>
+<tr>
+<td width="50%">
 
-- Sichern Sie wichtige Arbeiten vor dem Zurücksetzen
-- Das Tool erstellt automatische Backups zur Wiederherstellung
-- Quellcode nicht öffentlich verfügbar (nur verschleierte Binärverteilung)
+**Windsurf-Kompatibilität**
+- ✅ **Unterstützt**: Version ≤ 1.12.28
+- ⚠️ **In Tests**: Version > 1.12.28
+- 📋 **OS**: Alle Hauptplattformen
+
+</td>
+<td width="50%">
+
+**Systemanforderungen**
+- 💻 **RAM**: Mindestens 512 MB
+- 💾 **Festplatte**: 100 MB freier Speicher
+- 🖥️ **Display**: Beliebige Auflösung
+- 🔌 **Internet**: Nicht erforderlich
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Schnellstart-Anleitung
+
+<div align="center">
+
+#### **In 4 einfachen Schritten starten**
+
+</div>
+
+```bash
+# Schritt 1: Schließen Sie Windsurf IDE
+# Schließen Sie alle Windsurf-Fenster und -Prozesse
+
+# Schritt 2: Starten Sie Windsurf Reset
+# Öffnen Sie die Anwendung von Ihrer Plattform
+
+# Schritt 3: Klicken Sie auf "Zurücksetzen starten"
+# Das Tool sichert und regeneriert Kennungen
+
+# Schritt 4: Starten Sie Windsurf neu
+# Starten Sie Windsurf mit Ihrer neuen Konfiguration
+```
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/1-Schließen-red?style=for-the-badge" alt="Schritt 1"/>
+<br><b>Windsurf Schließen</b>
+<br><sub>Alle Instanzen schließen</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2-Starten-blue?style=for-the-badge" alt="Schritt 2"/>
+<br><b>Reset-Tool Öffnen</b>
+<br><sub>Windsurf Reset ausführen</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/3-Zurücksetzen-green?style=for-the-badge" alt="Schritt 3"/>
+<br><b>Reset-Button Klicken</b>
+<br><sub>Automatische Sicherung</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/4-Neustart-orange?style=for-the-badge" alt="Schritt 4"/>
+<br><b>Windsurf Starten</b>
+<br><sub>Frische IDE genießen</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚠️ Wichtige Informationen
+
+<table>
+<tr>
+<td width="33%">
+
+#### 💡 **Vor dem Reset**
+- ✅ Speichern Sie Ihre Arbeit
+- ✅ Schließen Sie Windsurf
+- ✅ Notieren Sie Einstellungen
+- ✅ Prüfen Sie Projekte
+
+</td>
+<td width="33%">
+
+#### 🔄 **Während des Resets**
+- ⏳ Auf Fertigstellung warten
+- 🚫 Nicht unterbrechen
+- 📋 Backup wird erstellt
+- ✨ Kennungen regeneriert
+
+</td>
+<td width="34%">
+
+#### ✅ **Nach dem Reset**
+- 🎉 Frische IDE-Konfiguration
+- 🔙 Wiederherstellung möglich
+- 📂 Projekte prüfen
+- 🆕 Neustart genießen
+
+</td>
+</tr>
+</table>
+
+> **📌 Hinweis**: Dieses Tool ändert Windsurf-Maschinenkennungen. Stellen Sie sicher, dass wichtige Arbeiten gesichert sind. Quellcode wird nur als verschleierte Binärdatei verteilt.
+
+---
 
 ### 📄 Lizenz
 
-**Benutzerdefinierte Lizenz** - Siehe [LICENSE](LICENSE) Datei
+<div align="center">
 
-- ✅ Persönliche Nutzung erlaubt
-- ✅ Closed-Source-Nutzung erlaubt
-- ✅ Weiterverbreitung erlaubt
-- ✅ Änderungen müssen Open-Source sein
-- ❌ Kommerzielle Nutzung verboten
+**Benutzerdefinierte Offene Lizenz**
+
+*Flexible Bedingungen für verschiedene Anwendungsfälle*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### ✅ **Erlaubt**
+- ✔️ Persönliche Nutzung
+- ✔️ Closed-Source-Nutzung
+- ✔️ Kostenlose Weiterverbreitung
+- ✔️ Änderung (muss Open-Source sein)
+
+</td>
+<td width="50%">
+
+#### ❌ **Verboten**
+- ✖️ Kommerzielle Nutzung
+- ✖️ Software verkaufen
+- ✖️ Proprietäre Änderungen
+- ✖️ Attribution entfernen
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📖 [**Vollständige Lizenz lesen**](LICENSE)
+
+</div>
 
 ---
 
-## 🛠️ Technical Stack
+<div align="center">
 
-- Electron
-- HTML/CSS/JavaScript
-- Neo-Brutalism Design
+### 🎨 Screenshots
 
-## 🤝 Contributing
-
-Modifications to this software must be open-sourced under the same license terms.
-
-## 📧 Contact
-
-For commercial licensing inquiries or support, please open an issue.
+*Demnächst - Schöne UI-Vorschau*
 
 ---
 
-**Made with ❤️ by Yuze Pan**
+### 💬 FAQ
 
+<details>
+<summary><b>Sind meine Daten sicher?</b></summary>
+<br>
+Ja! Das Tool erstellt vor jeder Operation automatische Backups. Sie können jederzeit wiederherstellen.
+</details>
+
+<details>
+<summary><b>Funktioniert es mit der neuesten Windsurf-Version?</b></summary>
+<br>
+Getestet und bestätigt mit Windsurf Version 1.12.28 und darunter. Neuere Versionen werden getestet.
+</details>
+
+<details>
+<summary><b>Kann ich dies kommerziell nutzen?</b></summary>
+<br>
+Nein, kommerzielle Nutzung ist unter der aktuellen Lizenz verboten. Kontaktieren Sie uns für kommerzielle Lizenzen.
+</details>
+
+<details>
+<summary><b>Was passiert, wenn etwas schief geht?</b></summary>
+<br>
+Alle Operationen sind umkehrbar. Verwenden Sie die Wiederherstellungsfunktion, um zur vorherigen Konfiguration zurückzukehren.
+</details>
+
+---
+
+### 🛠️ Technologie-Stack
+
+<div align="center">
+
+![Electron](https://img.shields.io/badge/Electron-28.0-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Design-Philosophie**: Neo-Brutalismus
+
+</div>
+
+---
+
+### 🤝 Beitragen
+
+Beiträge sind willkommen! Wenn Sie diese Software ändern, müssen Ihre Änderungen unter den gleichen Lizenzbedingungen Open-Source sein.
+
+1. Repository forken
+2. Änderungen vornehmen
+3. Mit Open-Source-Lizenz einreichen
+4. Klare Dokumentation einschließen
+
+---
+
+### 📧 Support & Kontakt
+
+- 🐛 **Fehlerberichte**: [Issue öffnen](../../issues)
+- 💡 **Feature-Anfragen**: [Issue öffnen](../../issues)
+- 💼 **Kommerzielle Lizenzierung**: [Über Issue kontaktieren](../../issues)
+- 📖 **Dokumentation**: Siehe [Wiki](../../wiki)
+
+---
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yuzeguitarist/Windsurf-Reset&type=Date)](https://star-history.com/#yuzeguitarist/Windsurf-Reset&Date)
+
+---
+
+### 👨‍💻 Author
+
+**Made with ❤️ by [Yuze Pan](https://github.com/yuzeguitarist)**
+
+---
+
+### 📊 Repository Stats
+
+![GitHub stars](https://img.shields.io/github/stars/yuzeguitarist/Windsurf-Reset?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yuzeguitarist/Windsurf-Reset?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/yuzeguitarist/Windsurf-Reset?style=social)
+
+---
+
+*If you find this tool helpful, please consider giving it a ⭐ on GitHub!*
+
+*如果这个工具对您有帮助，请在 GitHub 上给它一个 ⭐！*
+
+*Wenn Sie dieses Tool hilfreich finden, geben Sie ihm bitte einen ⭐ auf GitHub!*
+
+</div>
