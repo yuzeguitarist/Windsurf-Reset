@@ -29,7 +29,15 @@
 
 *The most elegant solution to refresh your Windsurf IDE with a single click*
 
+### 🎨 Screenshots
+
+![Windsurf Reset Application](show.png)
+
+*Windsurf Reset - Clean and Modern Interface*
+
 </div>
+
+---
 
 ### 🎯 Key Features
 
@@ -271,14 +279,6 @@
 
 <div align="center">
 
-### 🎨 Screenshots
-
-![Windsurf Reset Application](show.png)
-
-*Windsurf Reset - Clean and Modern Interface*
-
----
-
 ### 💬 FAQ
 
 <details>
@@ -354,7 +354,15 @@ Contributions are welcome! If you modify this software, your changes must be ope
 
 *一键刷新 Windsurf IDE 的最优雅解决方案*
 
+### 🎨 界面预览
+
+![Windsurf Reset 应用程序](show.png)
+
+*Windsurf Reset - 简洁现代的界面*
+
 </div>
+
+---
 
 ### 🎯 核心功能
 
@@ -596,14 +604,6 @@ Contributions are welcome! If you modify this software, your changes must be ope
 
 <div align="center">
 
-### 🎨 界面预览
-
-![Windsurf Reset 应用程序](show.png)
-
-*Windsurf Reset - 简洁现代的界面*
-
----
-
 ### 💬 常见问题
 
 <details>
@@ -679,7 +679,15 @@ Contributions are welcome! If you modify this software, your changes must be ope
 
 *Die eleganteste Lösung, um Ihre Windsurf IDE mit einem Klick zu aktualisieren*
 
+### 🎨 Screenshots
+
+![Windsurf Reset Anwendung](show.png)
+
+*Windsurf Reset - Saubere und Moderne Oberfläche*
+
 </div>
+
+---
 
 ### 🎯 Hauptfunktionen
 
@@ -920,14 +928,6 @@ Contributions are welcome! If you modify this software, your changes must be ope
 ---
 
 <div align="center">
-
-### 🎨 Screenshots
-
-![Windsurf Reset Anwendung](show.png)
-
-*Windsurf Reset - Saubere und Moderne Oberfläche*
-
----
 
 ### 💬 FAQ
 
