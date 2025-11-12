@@ -1,5 +1,3 @@
----
-
 ### English
 
 #### Code of Conduct
